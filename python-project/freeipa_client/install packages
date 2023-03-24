@@ -1,0 +1,9 @@
+apt install python3-pip
+pip3 install paramiko
+pip3 install python-dotenv
+apt install sshpass
+
+
+
+install package on client host
+apt install freeipa-client
